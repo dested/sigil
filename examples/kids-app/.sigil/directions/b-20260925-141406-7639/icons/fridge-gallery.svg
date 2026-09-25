@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="a fridge door with a drawing held by a magnet — share and show off">
+  <g data-role="plane"><rect x="7" y="3.5" width="18" height="25" rx="3.5"/></g>
+  <g data-role="line"><rect x="7" y="3.5" width="18" height="25" rx="3.5"/><line x1="7" y1="9" x2="25" y2="9"/><path d="M12 17 L18.5 16 L19.5 22.5 L13 23.5 Z"/></g>
+  <g data-role="accent"><circle cx="15" cy="16.5" r="2"/></g>
+  <g data-role="line"><circle cx="15" cy="16.5" r="2"/></g>
+</svg>

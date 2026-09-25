@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="a wallet with a bill tucked in the top">
+  <g data-role="plane"><path d="M7.5 7.5h17a2.5 2.5 0 0 1 2.5 2.5v14.5a2.5 2.5 0 0 1-2.5 2.5h-17A2.5 2.5 0 0 1 5 24.5V10a2.5 2.5 0 0 1 2.5-2.5z"/></g>
+  <g data-role="line"><path d="M27 12.5V10a2.5 2.5 0 0 0-2.5-2.5h-17A2.5 2.5 0 0 0 5 10v14.5A2.5 2.5 0 0 0 7.5 27h17a2.5 2.5 0 0 0 2.5-2.5V22"/></g>
+  <g data-role="line"><path d="M8 7.5l11.6-3.6a1.6 1.6 0 0 1 2 1.1l.7 2.5"/></g>
+  <g data-role="line"><path d="M28 13.5h-5.2a3.7 3.7 0 0 0 0 7.4H28a1 1 0 0 0 1-1v-5.4a1 1 0 0 0-1-1z"/></g>
+  <g data-role="dot"><circle cx="22.9" cy="17.2" r="1.3"/></g>
+</svg>

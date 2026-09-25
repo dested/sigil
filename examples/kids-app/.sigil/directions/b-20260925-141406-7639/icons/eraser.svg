@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="a pink block eraser — rub things out">
+  <g data-role="plane"><rect x="5" y="8" width="22" height="12" rx="3.5"/></g>
+  <g data-role="accent"><path d="M13 8 H23.5 A3.5 3.5 0 0 1 27 11.5 V16.5 A3.5 3.5 0 0 1 23.5 20 H13 Z"/></g>
+  <g data-role="line"><rect x="5" y="8" width="22" height="12" rx="3.5"/><line x1="13" y1="8" x2="13" y2="20"/><path d="M7 25 Q11 23 15 25 T23 25"/></g>
+</svg>

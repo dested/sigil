@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="a stack of photos — the marketing files">
+  <g data-role="plane"><path d="M8.1 11.5l-.6-3 18.6-3.6 2.7 13.7-5.3 1v-8.1z"/></g>
+  <g data-role="line"><path d="M8.1 11.5l-.6-3 18.6-3.6 2.7 13.7-5.3 1"/></g>
+  <g data-role="plane"><rect x="3.5" y="11.5" width="20" height="15" rx="2.5"/></g>
+  <g data-role="line"><rect x="3.5" y="11.5" width="20" height="15" rx="2.5"/></g>
+  <g data-role="line"><circle cx="9.3" cy="16.3" r="1.6"/><path d="M3.5 24.5l6-5.3 4 3.4 3.5-2.9 6.5 5.3"/></g>
+</svg>

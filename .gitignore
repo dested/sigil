@@ -1,0 +1,12 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.DS_Store
+
+# per-project engine state that is never source
+**/.sigil/jobs/
+**/.sigil/render/
+**/.sigil/cache/
+
+# local scratch projects
+/test1/

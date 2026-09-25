@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="a calculator's face: plus, minus, times and equals keys">
+  <g data-role="plane"><rect x="4.5" y="4.5" width="23" height="23" rx="3.5"/></g>
+  <g data-role="line"><rect x="4.5" y="4.5" width="23" height="23" rx="3.5"/></g>
+  <g data-role="line"><path d="M10.8 8.3v5M8.3 10.8h5"/><path d="M18.7 10.8h5"/></g>
+  <g data-role="line"><path d="M8.8 19.2l4 4M12.8 19.2l-4 4"/><path d="M18.7 19.4h5M18.7 23h5"/></g>
+</svg>

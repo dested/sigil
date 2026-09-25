@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="an open picture book — turn drawings into a tale">
+  <g data-role="plane"><path d="M16 10 C13 7.5 8 7 4 8 V24 C8 23 13 23.5 16 26 C19 23.5 24 23 28 24 V8 C24 7 19 7.5 16 10 Z"/></g>
+  <g data-role="accent"><path d="M20.5 7.5 H24.5 V18 L22.5 15.5 L20.5 18 Z"/></g>
+  <g data-role="line"><path d="M16 10 C13 7.5 8 7 4 8 V24 C8 23 13 23.5 16 26 C19 23.5 24 23 28 24 V8 C24 7 19 7.5 16 10 Z"/><line x1="16" y1="10" x2="16" y2="26"/><path d="M20.5 7.5 V18 L22.5 15.5 L24.5 18 V7.5"/></g>
+</svg>

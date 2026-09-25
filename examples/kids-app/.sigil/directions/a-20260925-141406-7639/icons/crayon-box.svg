@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="an open crayon box — pick colors and tools">
+  <g data-role="plane"><path d="M6.5 18 L6.5 11.5 L8 9 Q8.5 8 9 9 L10.5 11.5 L10.5 18 Z"/><path d="M14 19 L14 9 L15.5 6 Q16 5 16.5 6 L18 9 L18 19 Z"/><path d="M21.5 18 L21.5 11.5 L23 9 Q23.5 8 24 9 L25.5 11.5 L25.5 18 Z"/></g>
+  <g data-role="line"><path d="M6.5 18 L6.5 11.5 L8 9 Q8.5 8 9 9 L10.5 11.5 L10.5 18"/><path d="M14 19 L14 9 L15.5 6 Q16 5 16.5 6 L18 9 L18 19"/><path d="M21.5 18 L21.5 11.5 L23 9 Q23.5 8 24 9 L25.5 11.5 L25.5 18"/></g>
+  <g data-role="plane"><path d="M4.5 17 Q4.5 14 7.5 14 L10 14 Q16 19 22 14 L24.5 14 Q27.5 14 27.5 17 L27.5 24.5 Q27.5 27.5 24.5 27.5 L7.5 27.5 Q4.5 27.5 4.5 24.5 Z"/></g>
+  <g data-role="line"><path d="M4.5 17 Q4.5 14 7.5 14 L10 14 Q16 19 22 14 L24.5 14 Q27.5 14 27.5 17 L27.5 24.5 Q27.5 27.5 24.5 27.5 L7.5 27.5 Q4.5 27.5 4.5 24.5 Z"/></g>
+</svg>

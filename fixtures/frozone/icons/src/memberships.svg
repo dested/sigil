@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="a membership card with a photo and a clip">
+  <g data-role="plane"><rect x="3.5" y="9.5" width="25" height="18" rx="3"/></g>
+  <g data-role="line"><rect x="3.5" y="9.5" width="25" height="18" rx="3"/></g>
+  <g data-role="plane"><rect x="12.5" y="5" width="7" height="7" rx="2"/></g>
+  <g data-role="line"><rect x="12.5" y="5" width="7" height="7" rx="2"/></g>
+  <g data-role="line"><circle cx="10.5" cy="17" r="2.3"/><path d="M6.8 23.5a3.8 3.8 0 0 1 7.4 0"/></g>
+  <g data-role="line"><path d="M18 16h6.5M18 20.5h4"/></g>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="a padlock with a check mark — locking the day's books">
+  <g data-role="plane"><rect x="5.5" y="13.5" width="21" height="15" rx="3.2"/></g>
+  <g data-role="line"><rect x="5.5" y="13.5" width="21" height="15" rx="3.2"/><path d="M10.5 13.5V9.8a5.5 5.5 0 0 1 11 0v3.7"/></g>
+  <g data-role="line"><path d="M11.8 21l2.9 2.9 5.6-5.8"/></g>
+</svg>

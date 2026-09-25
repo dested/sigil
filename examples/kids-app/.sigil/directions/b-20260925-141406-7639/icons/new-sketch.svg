@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="a fat yellow crayon — start a new drawing">
+  <g data-role="plane"><path d="M6 22 L17 11 L26 8 L23 17 L12 28 Z"/></g>
+  <g data-role="accent"><path d="M12 16 L17 11 L26 8 L23 17 L18 22 Z"/></g>
+  <g data-role="line"><path d="M6 22 L17 11 L26 8 L23 17 L12 28 Z"/><line x1="12" y1="16" x2="18" y2="22"/><line x1="17" y1="11" x2="23" y2="17"/></g>
+</svg>

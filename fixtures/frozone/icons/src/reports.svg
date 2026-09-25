@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="a bar chart on axes with a rising trend arrow">
+  <g data-role="plane"><rect x="8.5" y="18" width="4.5" height="8" rx="1.2"/><rect x="15" y="13" width="4.5" height="13" rx="1.2"/><rect x="21.5" y="16" width="4.5" height="10" rx="1.2"/></g>
+  <g data-role="line"><path d="M4.5 4.5v21a2 2 0 0 0 2 2h21"/></g>
+  <g data-role="line"><rect x="8.5" y="18" width="4.5" height="8" rx="1.2"/><rect x="15" y="13" width="4.5" height="13" rx="1.2"/><rect x="21.5" y="16" width="4.5" height="10" rx="1.2"/></g>
+  <g data-role="line"><path d="M9 12.2l5.3-4.7 4 2.8 7-6.3"/><path d="M21.6 4h3.7v3.7"/></g>
+</svg>

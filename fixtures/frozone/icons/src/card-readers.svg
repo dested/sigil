@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="a handheld card terminal with a screen and keypad">
+  <g data-role="plane"><rect x="7.5" y="3.5" width="17" height="25" rx="3.5"/></g>
+  <g data-role="line"><rect x="7.5" y="3.5" width="17" height="25" rx="3.5"/><rect x="11" y="7" width="10" height="6" rx="1.4"/></g>
+  <g data-role="dot"><circle cx="12.4" cy="17.6" r="1.2"/><circle cx="16" cy="17.6" r="1.2"/><circle cx="19.6" cy="17.6" r="1.2"/><circle cx="12.4" cy="21.4" r="1.2"/><circle cx="16" cy="21.4" r="1.2"/><circle cx="19.6" cy="21.4" r="1.2"/></g>
+  <g data-role="line"><path d="M13.5 25h5"/></g>
+</svg>

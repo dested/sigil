@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="a kanban board with three columns of cards">
+  <g data-role="plane"><rect x="4.5" y="4.5" width="23" height="23" rx="3"/></g>
+  <g data-role="line"><rect x="4.5" y="4.5" width="23" height="23" rx="3"/></g>
+  <g data-role="dot"><rect x="8" y="8" width="4.4" height="16" rx="1.2"/><rect x="13.8" y="8" width="4.4" height="11" rx="1.2"/><rect x="19.6" y="8" width="4.4" height="6.5" rx="1.2"/></g>
+</svg>

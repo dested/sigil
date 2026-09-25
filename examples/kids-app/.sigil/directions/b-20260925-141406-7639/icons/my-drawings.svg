@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="a scrapbook with a doodle poking out — my saved drawings">
+  <g data-role="accent"><path d="M14.5 7.5 L22.5 4.5 L25.5 12.5 L17.5 15.5 Z"/></g>
+  <g data-role="line"><path d="M14.5 7.5 L22.5 4.5 L25.5 12.5 L17.5 15.5 Z"/></g>
+  <g data-role="plane"><rect x="5.5" y="11" width="21" height="17" rx="3.5"/></g>
+  <g data-role="line"><rect x="5.5" y="11" width="21" height="17" rx="3.5"/><line x1="10" y1="11" x2="10" y2="28"/><path d="M14 20 Q16.5 16.5 19 20 T24 20"/></g>
+</svg>

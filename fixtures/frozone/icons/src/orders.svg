@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="a printed receipt">
+  <g data-role="plane"><path d="M7.5 3.5h17v25l-2.8-1.8-2.9 1.8-2.8-1.8-2.8 1.8-2.9-1.8-2.8 1.8z"/></g>
+  <g data-role="line"><path d="M7.5 3.5h17v25l-2.8-1.8-2.9 1.8-2.8-1.8-2.8 1.8-2.9-1.8-2.8 1.8z"/></g>
+  <g data-role="line"><path d="M11.5 9.5h9M11.5 13.8h9M11.5 18.1h4.5"/><path d="M18.4 18.1h2.1"/></g>
+</svg>

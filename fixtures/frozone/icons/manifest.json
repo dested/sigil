@@ -1,0 +1,182 @@
+{
+  "all-tools": {
+    "brief": "a two-by-two grid of app tiles",
+    "group": "frozone"
+  },
+  "ask-team": {
+    "brief": "a speech bubble with a question mark — asking Frozen Ropes staff",
+    "group": "frozone"
+  },
+  "assistant": {
+    "brief": "a pair of sparkles — the AI assistant",
+    "group": "academy"
+  },
+  "at-risk": {
+    "brief": "an athlete's head and shoulders with a warning triangle — the athlete slipping away",
+    "group": "catalog"
+  },
+  "booking": {
+    "brief": "a cage-lane booking grid with reserved blocks in three lanes",
+    "group": "academy"
+  },
+  "boost": {
+    "brief": "a gauge with its needle swinging up — the facility getting better",
+    "group": "frozone"
+  },
+  "business-events": {
+    "brief": "a briefcase with a baseball — a company's team day at the facility",
+    "group": "frozone"
+  },
+  "calculators": {
+    "brief": "a calculator's face: plus, minus, times and equals keys",
+    "group": "frozone"
+  },
+  "card-readers": {
+    "brief": "a handheld card terminal with a screen and keypad",
+    "group": "catalog"
+  },
+  "closeout": {
+    "brief": "a padlock with a check mark — locking the day's books",
+    "group": "catalog"
+  },
+  "dead-hours": {
+    "brief": "a clock with one empty quarter — unfilled hours on the schedule",
+    "group": "frozone"
+  },
+  "discounts": {
+    "brief": "a price tag with a percent sign",
+    "group": "catalog"
+  },
+  "estimator": {
+    "brief": "a rolled blueprint with a floor plan — the Blueprint business estimator",
+    "group": "academy"
+  },
+  "expenses": {
+    "brief": "a wallet with a bill tucked in the top",
+    "group": "catalog"
+  },
+  "flyer-studio": {
+    "brief": "a flyer with a picture on it, and the pencil drawing it",
+    "group": "catalog"
+  },
+  "flyers": {
+    "brief": "two flyers fanned out of the flyer rack",
+    "group": "frozone"
+  },
+  "forms": {
+    "brief": "a clipboard holding a sheet with two checklist rows",
+    "group": "catalog"
+  },
+  "hiring": {
+    "brief": "a candidate's scorecard with their photo and a star",
+    "group": "frozone"
+  },
+  "households": {
+    "brief": "a house with a parent and child inside — the families",
+    "group": "academy"
+  },
+  "inquiries": {
+    "brief": "a letter dropping into an inbox tray — inbound leads",
+    "group": "academy"
+  },
+  "library": {
+    "brief": "a stack of video tiles with a play button — the drills and lectures library",
+    "group": "frozone"
+  },
+  "mailer": {
+    "brief": "a direct-mail postcard with a stamp and postmark",
+    "group": "frozone"
+  },
+  "manual": {
+    "brief": "a bound handbook with a ribbon bookmark — the licensee Manual",
+    "group": "frozone"
+  },
+  "marketing-content": {
+    "brief": "a stack of photos — the marketing files",
+    "group": "academy"
+  },
+  "memberships": {
+    "brief": "a membership card with a photo and a clip",
+    "group": "academy"
+  },
+  "mental-menu": {
+    "brief": "a head in profile with a target in the mind — the mental skills menu",
+    "group": "frozone"
+  },
+  "operations-content": {
+    "brief": "a shelf of binders — the SOPs",
+    "group": "academy"
+  },
+  "orders": {
+    "brief": "a printed receipt",
+    "group": "catalog"
+  },
+  "parties": {
+    "brief": "two birthday balloons on strings",
+    "group": "academy"
+  },
+  "pipeline": {
+    "brief": "a kanban board with three columns of cards",
+    "group": "frozone"
+  },
+  "point-of-sale": {
+    "brief": "a shopping cart — ringing up a sale at the front desk",
+    "group": "catalog"
+  },
+  "practice-plans": {
+    "brief": "a plan sheet with the diamond's four bases — the MPE station plans",
+    "group": "frozone"
+  },
+  "pro-shop": {
+    "brief": "a team jersey with its number — the pro shop's merchandise",
+    "group": "catalog"
+  },
+  "programs": {
+    "brief": "a pennant on a pole — camps, classes and leagues",
+    "group": "academy"
+  },
+  "prospects": {
+    "brief": "a folded map with a location pin — the prospects around the building",
+    "group": "frozone"
+  },
+  "reports": {
+    "brief": "a bar chart on axes with a rising trend arrow",
+    "group": "catalog"
+  },
+  "rock-ready": {
+    "brief": "a pentagon radar chart — a Rock Ready athlete evaluation",
+    "group": "academy"
+  },
+  "roster": {
+    "brief": "a batting helmet — the athletes on the roster",
+    "group": "academy"
+  },
+  "schedule": {
+    "brief": "a wall-calendar page with day dots — the programs calendar",
+    "group": "academy"
+  },
+  "settings": {
+    "brief": "a gear",
+    "group": "academy"
+  },
+  "sponsorships": {
+    "brief": "a local sponsor's banner hung on the outfield fence",
+    "group": "frozone"
+  },
+  "tasks": {
+    "brief": "a to-do list: two checkboxes, one ticked, each with its lines",
+    "group": "catalog"
+  },
+  "today": {
+    "brief": "the sun rising over the horizon — the day's start page and home tab",
+    "group": "frozone"
+  },
+  "videos": {
+    "brief": "a clapperboard with a play button",
+    "group": "academy"
+  },
+  "website": {
+    "brief": "a browser window with a picture and text",
+    "group": "academy"
+  }
+}

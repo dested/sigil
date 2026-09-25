@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="a shopping cart — ringing up a sale at the front desk">
+  <g data-role="plane"><path d="M8.4 8.5h19.1a1 1 0 0 1 1 1.2l-2.1 9.1a1.6 1.6 0 0 1-1.6 1.2H10.6z"/></g>
+  <g data-role="line"><path d="M3 4.5h2.9a1.2 1.2 0 0 1 1.2 1l3 15.3a1.6 1.6 0 0 0 1.6 1.3h14"/></g>
+  <g data-role="line"><path d="M8.4 8.5h19.1a1 1 0 0 1 1 1.2l-2.1 9.1a1.6 1.6 0 0 1-1.6 1.2H10.6"/><path d="M14.5 12.2v4.4M19.5 12.2v4.4"/></g>
+  <g data-role="line"><circle cx="12.5" cy="26.5" r="2"/><circle cx="23.5" cy="26.5" r="2"/></g>
+</svg>

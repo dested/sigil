@@ -1,0 +1,42 @@
+{
+  "coloring-pages": {
+    "brief": "a coloring page with a half-filled star — pages to color in",
+    "group": "main"
+  },
+  "crayon-box": {
+    "brief": "an open crayon box — pick colors and tools",
+    "group": "tools"
+  },
+  "eraser": {
+    "brief": "a pink block eraser — rub things out",
+    "group": "tools"
+  },
+  "fridge-gallery": {
+    "brief": "a fridge door with a drawing held by a magnet — share and show off",
+    "group": "main"
+  },
+  "grown-ups": {
+    "brief": "a padlock with a key — the parents' settings area",
+    "group": "settings"
+  },
+  "home": {
+    "brief": "a little crayon-drawn house with a smoke curl — the home screen",
+    "group": "main"
+  },
+  "my-drawings": {
+    "brief": "a scrapbook with a doodle poking out — my saved drawings",
+    "group": "main"
+  },
+  "new-sketch": {
+    "brief": "a fat yellow crayon — start a new drawing",
+    "group": "main"
+  },
+  "stickers": {
+    "brief": "a peeling star sticker — stickers to add",
+    "group": "tools"
+  },
+  "storybook": {
+    "brief": "an open picture book — turn drawings into a tale",
+    "group": "main"
+  }
+}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="a clapperboard with a play button">
+  <g data-role="plane"><rect x="4.5" y="12.5" width="23" height="15" rx="2.5"/></g>
+  <g data-role="line"><rect x="4.5" y="12.5" width="23" height="15" rx="2.5"/></g>
+  <g data-role="line"><path d="M4.8 12.3l-.7-3.1a1.5 1.5 0 0 1 1.1-1.8l19.7-4.6a1.5 1.5 0 0 1 1.8 1.1l.7 3.1z"/><path d="M11 6.3l2.5 3.8M17.5 4.8l2.5 3.8"/></g>
+  <g data-role="line"><path d="M14 16.8v6.4l5.2-3.2z"/></g>
+</svg>

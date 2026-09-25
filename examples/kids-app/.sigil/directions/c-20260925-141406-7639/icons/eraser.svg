@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="a pink block eraser — rub things out">
+  <g data-role="plane"><path d="M7.5 13 L20.5 7.5 L28.5 12 L15.5 18 Z"/></g>
+  <g data-role="line"><path d="M6.5 12 Q13 9 19.5 6.5 Q23.5 8.5 27.5 11 Q28 14.5 27.5 18 Q21 21 14.5 24 Q10.5 21.5 6.5 19 L6.5 13"/><path d="M7 12 Q10.5 14.5 14.5 17 Q21 14 27.5 11"/><path d="M14.5 17.5 L14.5 23.5"/></g>
+  <g data-role="dot"><path d="M4 24 C4 22.5 6 22.5 6 24 C6 25 4 25 4 24 Z"/><path d="M7.5 27 C7.5 25.5 9.5 25.5 9.5 27 C9.5 28 7.5 28 7.5 27 Z"/><path d="M11.5 28 C11.5 26.5 13.5 26.5 13.5 28 C13.5 29 11.5 29 11.5 28 Z"/></g>
+</svg>

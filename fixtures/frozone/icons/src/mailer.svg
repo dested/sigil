@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="a direct-mail postcard with a stamp and postmark">
+  <g data-role="plane"><rect x="3.5" y="6.5" width="25" height="19" rx="3"/></g>
+  <g data-role="line"><rect x="3.5" y="6.5" width="25" height="19" rx="3"/><rect x="19.5" y="10" width="5.5" height="6.5" rx="1"/></g>
+  <g data-role="line"><path d="M8 12.5c1.2-1 2.3-1 3.5 0s2.3 1 3.5 0M8 16.5c1.2-1 2.3-1 3.5 0s2.3 1 3.5 0"/></g>
+  <g data-role="line"><path d="M15 21.5h10"/></g>
+</svg>

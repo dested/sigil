@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="a head in profile with a target in the mind — the mental skills menu">
+  <g data-role="plane"><path d="M10 28.5v-5.3a10.6 10.6 0 0 1-4.5-8.7C5.5 8.6 10.2 4 16.1 4c5.2 0 9.4 3.6 10.3 8.4l2 4a.8.8 0 0 1-.7 1.2h-1.3v3.3a2.5 2.5 0 0 1-2.5 2.5h-2.4v5.1z"/></g>
+  <g data-role="line"><path d="M10 28.5v-5.3a10.6 10.6 0 0 1-4.5-8.7C5.5 8.6 10.2 4 16.1 4c5.2 0 9.4 3.6 10.3 8.4l2 4a.8.8 0 0 1-.7 1.2h-1.3v3.3a2.5 2.5 0 0 1-2.5 2.5h-2.4v5.1"/></g>
+  <g data-role="line"><circle cx="15.5" cy="13.8" r="4.6"/></g>
+  <g data-role="dot"><circle cx="15.5" cy="13.8" r="1.5"/></g>
+</svg>

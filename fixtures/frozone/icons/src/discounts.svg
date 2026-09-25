@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="a price tag with a percent sign">
+  <g data-role="plane"><path d="M4.5 6.5v8.3a2 2 0 0 0 .6 1.4l11.3 11.3a2 2 0 0 0 2.8 0l8.4-8.4a2 2 0 0 0 0-2.8L16.3 5.1a2 2 0 0 0-1.4-.6H6.5a2 2 0 0 0-2 2z"/></g>
+  <g data-role="line"><path d="M4.5 6.5v8.3a2 2 0 0 0 .6 1.4l11.3 11.3a2 2 0 0 0 2.8 0l8.4-8.4a2 2 0 0 0 0-2.8L16.3 5.1a2 2 0 0 0-1.4-.6H6.5a2 2 0 0 0-2 2z"/></g>
+  <g data-role="line"><circle cx="10" cy="10" r="1.7"/><path d="M21 14.2l-6.8 6.8"/></g>
+  <g data-role="dot"><circle cx="15" cy="15.2" r="1.35"/><circle cx="20.2" cy="20.2" r="1.35"/></g>
+</svg>

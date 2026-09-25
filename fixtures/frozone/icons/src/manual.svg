@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="a bound handbook with a ribbon bookmark — the licensee Manual">
+  <g data-role="plane"><path d="M10 3.5h15.5v20H10A3.5 3.5 0 0 0 6.5 27V7A3.5 3.5 0 0 1 10 3.5z"/></g>
+  <g data-role="line"><path d="M25.5 23.5v5H10a3.5 3.5 0 0 1 0-7h15.5v-18H10A3.5 3.5 0 0 0 6.5 7v18"/></g>
+  <g data-role="line"><path d="M14.5 3.5v9.5l2.5-2 2.5 2V3.5"/></g>
+</svg>

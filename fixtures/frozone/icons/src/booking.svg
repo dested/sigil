@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="a cage-lane booking grid with reserved blocks in three lanes">
+  <g data-role="plane"><rect x="3.5" y="4.5" width="25" height="23" rx="3"/></g>
+  <g data-role="line"><rect x="3.5" y="4.5" width="25" height="23" rx="3"/><path d="M3.5 12h25M3.5 19.5h25"/></g>
+  <g data-role="dot"><rect x="7" y="6.8" width="10" height="2.9" rx="1.45"/><rect x="13" y="14.3" width="12" height="2.9" rx="1.45"/><rect x="19" y="21.8" width="6" height="2.9" rx="1.45"/></g>
+</svg>

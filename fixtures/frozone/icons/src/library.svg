@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="a stack of video tiles with a play button — the drills and lectures library">
+  <g data-role="line"><path d="M8 6.5h16.5a3 3 0 0 1 3 3v12"/></g>
+  <g data-role="plane"><rect x="4.5" y="10.5" width="19.5" height="17" rx="3"/></g>
+  <g data-role="line"><rect x="4.5" y="10.5" width="19.5" height="17" rx="3"/><path d="M11.8 15.2v7.6a.6.6 0 0 0 .9.5l6.1-3.8a.6.6 0 0 0 0-1l-6.1-3.8a.6.6 0 0 0-.9.5z"/></g>
+</svg>

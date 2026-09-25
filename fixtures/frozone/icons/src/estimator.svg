@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="a rolled blueprint with a floor plan — the Blueprint business estimator">
+  <g data-role="plane"><path d="M6 7h20a2.5 2.5 0 0 1 2.5 2.5v15A2.5 2.5 0 0 1 26 27H6a2.5 2.5 0 0 1-2.5-2.5V7z"/></g>
+  <g data-role="line"><path d="M8.5 7H26a2.5 2.5 0 0 1 2.5 2.5v15A2.5 2.5 0 0 1 26 27H6a2.5 2.5 0 0 1-2.5-2.5"/></g>
+  <g data-role="plane"><rect x="3.5" y="4.5" width="5" height="19.5" rx="2.5"/></g>
+  <g data-role="line"><rect x="3.5" y="4.5" width="5" height="19.5" rx="2.5"/></g>
+  <g data-role="line"><rect x="12.5" y="11" width="12" height="12" rx="1.2"/><path d="M12.5 17h5M20.5 11v6"/></g>
+</svg>

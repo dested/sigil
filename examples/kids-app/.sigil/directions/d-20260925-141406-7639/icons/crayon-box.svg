@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="an open crayon box — pick colors and tools">
+  <g data-role="plane"><path d="M5.5 17 H26.5 V28.5 H5.5 Z"/><path d="M7 17 V9.5 L9 5.5 L11 9.5 V17 Z"/><path d="M21 17 V9.5 L23 5.5 L25 9.5 V17 Z"/></g>
+  <g data-role="line"><polyline points="5.5,21 13.5,21 16,23.5 18.5,21 26.5,21"/><path d="M7 12 H11"/><path d="M21 12 H25"/></g>
+  <g data-role="accent"><path d="M14 17 V8 L16 3.5 L18 8 V17 Z"/></g>
+</svg>

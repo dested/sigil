@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="a plan sheet with the diamond's four bases — the MPE station plans">
+  <g data-role="plane"><rect x="5.5" y="3.5" width="21" height="25" rx="3"/></g>
+  <g data-role="line"><rect x="5.5" y="3.5" width="21" height="25" rx="3"/></g>
+  <g data-role="line"><path d="M16 9.5l6.5 6.5-6.5 6.5-6.5-6.5z"/></g>
+  <g data-role="dot"><circle cx="16" cy="9.5" r="1.7"/><circle cx="22.5" cy="16" r="1.7"/><circle cx="16" cy="22.5" r="1.7"/><circle cx="9.5" cy="16" r="1.7"/><circle cx="16" cy="16" r="1.2"/></g>
+</svg>

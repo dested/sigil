@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="a to-do list: two checkboxes, one ticked, each with its lines">
+  <g data-role="plane"><rect x="4.5" y="4.5" width="8" height="8" rx="2"/><rect x="4.5" y="18.5" width="8" height="8" rx="2"/></g>
+  <g data-role="line"><rect x="4.5" y="4.5" width="8" height="8" rx="2"/><rect x="4.5" y="18.5" width="8" height="8" rx="2"/></g>
+  <g data-role="line"><path d="M6.8 22.6l1.7 1.7 3.4-3.7"/></g>
+  <g data-role="line"><path d="M16.5 6.8h11M16.5 10.8h6.5M16.5 20.8h11M16.5 24.8h6.5"/></g>
+</svg>

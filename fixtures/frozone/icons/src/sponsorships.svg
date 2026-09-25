@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="a local sponsor's banner hung on the outfield fence">
+  <g data-role="plane"><rect x="3.5" y="6.5" width="25" height="11" rx="2.5"/></g>
+  <g data-role="line"><rect x="3.5" y="6.5" width="25" height="11" rx="2.5"/><circle cx="9.8" cy="12" r="2.4"/><path d="M15.5 12h8.5"/></g>
+  <g data-role="line"><path d="M8 17.5v10M24 17.5v10M8 22.5h16M3.5 27.5h25"/></g>
+</svg>

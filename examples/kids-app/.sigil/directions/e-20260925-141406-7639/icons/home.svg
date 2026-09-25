@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="a little crayon-drawn house with a smoke curl — the home screen">
+  <g data-role="plane"><path d="M7.5 15.5 L16 8 L24.5 15.5 V27.5 H7.5 Z"/></g>
+  <g data-role="line"><path d="M4.5 17.5 L16 7.5 L27.5 17.5"/><path d="M7.5 15.5 V27.5 H24.5 V15.5"/><path d="M19.5 11 V9.5 H22 V13"/><path d="M20.5 5.5 C22 4 23.5 6.5 25.5 4.5"/><path d="M10.5 27.5 V21.5 H15 V27.5"/></g>
+  <g data-role="dot"><rect x="18.5" y="19.5" width="3" height="3"/></g>
+  <g data-role="accent"><path d="M5.5 5 L6 6.5 L7.5 7 L6 7.5 L5.5 9 L5 7.5 L3.5 7 L5 6.5 Z"/><circle cx="27.5" cy="10.5" r="1"/></g>
+</svg>

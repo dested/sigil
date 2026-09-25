@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="a padlock with a key — the parents' settings area">
+  <g data-role="plane"><rect x="4.5" y="15" width="14" height="12.5" rx="3.5"/></g>
+  <g data-role="accent"><circle cx="24" cy="9" r="3.5"/></g>
+  <g data-role="line"><path d="M8 15 V11 A3.5 3.5 0 0 1 15 11 V15"/><rect x="4.5" y="15" width="14" height="12.5" rx="3.5"/><line x1="11.5" y1="19.5" x2="11.5" y2="23.5"/><path d="M24 12.5 A3.5 3.5 0 1 1 24 5.5 A3.5 3.5 0 1 1 24 12.5 V26.5 M24 23 H26.5"/></g>
+</svg>

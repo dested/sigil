@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="a coloring page with a half-filled star — pages to color in">
+  <g data-role="plane"><path d="M6 3.5 H21 L26 8.5 V28.5 H6 Z"/></g>
+  <g data-role="line"><path d="M21 3.5 V8.5 H26"/><polyline points="16,9 18,14.5 23.5,14.5 19,18 20.5,23.5 16,20.5"/></g>
+  <g data-role="accent"><path d="M16 9 L14 14.5 L8.5 14.5 L13 18 L11.5 23.5 L16 20.5 Z"/></g>
+</svg>

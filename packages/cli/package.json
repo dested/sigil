@@ -1,0 +1,19 @@
+{
+  "name": "sigil",
+  "version": "0.0.1",
+  "type": "module",
+  "bin": { "sigil": "./src/main.ts" },
+  "scripts": {
+    "typecheck": "tsc --noEmit -p tsconfig.json",
+    "test": "bun test"
+  },
+  "dependencies": {
+    "@sigil/core": "workspace:*",
+    "@sigil/lab": "workspace:*",
+    "citty": "^0.2.2"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.4.2",
+    "typescript": "~5.9.3"
+  }
+}

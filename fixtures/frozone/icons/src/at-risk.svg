@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="an athlete's head and shoulders with a warning triangle — the athlete slipping away">
+  <g data-role="plane"><circle cx="12.5" cy="10.5" r="5.5"/><path d="M3.5 27.5c0-5.4 4-9 9-9 1.7 0 3.3.4 4.6 1.1L15 27.5z"/></g>
+  <g data-role="line"><circle cx="12.5" cy="10.5" r="5.5"/><path d="M3.5 27.5c0-5.4 4-9 9-9 1.9 0 3.6.5 5 1.4"/><path d="M3.5 27.5h10"/></g>
+  <g data-role="plane"><path d="M22.2 16.3a1.6 1.6 0 0 1 2.8 0l5.5 9.6a1.6 1.6 0 0 1-1.4 2.4H18.1a1.6 1.6 0 0 1-1.4-2.4z"/></g>
+  <g data-role="line"><path d="M22.2 16.3a1.6 1.6 0 0 1 2.8 0l5.5 9.6a1.6 1.6 0 0 1-1.4 2.4H18.1a1.6 1.6 0 0 1-1.4-2.4z"/><path d="M23.6 20.6v2.6"/></g>
+  <g data-role="dot"><circle cx="23.6" cy="25.6" r="1.15"/></g>
+</svg>

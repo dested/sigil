@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" data-sigil="1" data-brief="a shelf of binders — the SOPs">
+  <g data-role="plane"><rect x="3.5" y="5.5" width="6" height="22" rx="2"/><rect x="12.5" y="5.5" width="6" height="22" rx="2"/><path d="M22.7 27.5L18.5 7.9l5.9-1.2 4.2 19.5z"/></g>
+  <g data-role="line"><rect x="3.5" y="5.5" width="6" height="22" rx="2"/><rect x="12.5" y="5.5" width="6" height="22" rx="2"/><path d="M22.7 27.5L18.5 7.9l5.9-1.2 4.2 19.5z"/></g>
+  <g data-role="line"><path d="M5.5 10.5h2M14.5 10.5h2"/><circle cx="6.5" cy="22" r="1.2"/><circle cx="15.5" cy="22" r="1.2"/></g>
+</svg>

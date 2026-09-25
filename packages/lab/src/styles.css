@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #F3F5F8;
+  --color-panel: #FFFFFF;
+  --color-panel-2: #F8F9FB;
+  --color-border: #E2E6ED;
+  --color-border-2: #CBD2DC;
+  --color-ink: #1C1A1F;
+  --color-ink-2: #5B5F68;
+  --color-ink-3: #8A8F99;
+  --color-ok: #1F7A4D;
+  --color-warn: #B7791F;
+  --color-error: #B42318;
+  --color-navy: #0F1F3A;
+  --color-grid-line: #E9ECF1;
+  --font-sans: system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-mono: ui-monospace, 'Cascadia Code', Consolas, monospace;
+}
+
+@layer base {
+  body {
+    background: var(--color-bg);
+    color: var(--color-ink);
+    font: 14px/1.45 var(--font-sans);
+  }
+}
+
+.mono {
+  font-family: var(--font-mono);
+  font-size: 12.5px;
+}
+
+.grid-bg {
+  background-image:
+    linear-gradient(var(--color-grid-line) 1px, transparent 1px),
+    linear-gradient(90deg, var(--color-grid-line) 1px, transparent 1px);
+  background-size: 16px 16px;
+}
+
+@keyframes sg-indeterminate {
+  from { transform: translateX(-100%) }
+  to { transform: translateX(300%) }
+}
+
+.sg-progress {
+  animation: sg-indeterminate 1.2s ease-in-out infinite;
+}
