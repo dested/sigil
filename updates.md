@@ -2,6 +2,11 @@
 
 Terse task log, newest first.
 
+## 2026-09-25 — Published to GitHub (board #205)
+
+- Public repo https://github.com/dested/sigil: README with screenshots and real cost numbers, MIT license, `examples/kids-app` (a fresh project taken to a picked direction through the lab), `docs/` screenshots.
+- Same day, after Sal's first clean-project test: Suggest icons + inline Add icons in the lab, `sigil scan`, parallel direction samples capped at six icons and two rounds, interrupted-job recovery on lab start, Debug tab with a live job feed, per-column Draw samples.
+
 ## 2026-09-25 — Founding build, M0–M3 plus scan (board #205)
 
 - Monorepo scaffolded: `@sigil/core`, `sigil` CLI, `@sigil/lab`; strict TS 5.9, bun test, zod at every boundary.
